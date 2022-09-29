@@ -5,7 +5,7 @@ metadata:
 projects:
   - git:
       remotes:
-        origin: 'https://github.com/manivannan12-git/example.git'
+        origin: 'https://github.com/manivannan12-git/LorryDpm.git'
     name: example
 components:
   - container:
